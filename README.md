@@ -1,7 +1,7 @@
 # Event Log Analysis with Process Mining Algorithms
 A project where event log analysis takes place and process models are discovered with the use of process mining algorithms in Python.
 
-## Decription
+## Description
 This project starts with analyzing an event log and creating a filtered log that contains only traces ending with 'End'. Next step is discovering process models for both the unfiltered and filtered logs, using process mining algorithms. Following this, evaluation and conformance checking using *Replay* fitness is conducted for both sets of logs.
 
 Process Mining Algorithms used:
